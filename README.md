@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently learning about making a simple telegram bot <br>then after i will shift on  doing some coding for my  normie college <br>
+## I'm diving into making a simple Telegram bot right now, and once I master that, I'll level up and start coding up a storm for my college projects<br>
 
 
 # 💻 Tech Stack:
